@@ -7,3 +7,4 @@ $date = Carbon::now();
 
 echo $date->toDayDateTimeString(); 
 echo "Hello Aws Devops Demo";
+?>
